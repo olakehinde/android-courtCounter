@@ -1,5 +1,3 @@
 <resources>
-    <string name="app_name">Birthday</string>
-    <string name="receiver">Happy Bithday Mikey</string>
-    <string name="sender">From Olamide</string>
+    <string name="app_name">Court Counter</string>
 </resources>
